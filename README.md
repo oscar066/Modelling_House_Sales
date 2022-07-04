@@ -29,7 +29,7 @@
 
 ## Methods
 
-<p>fter exploring and preprocessing the data,linear regression models were built in OLS statsmodels, with price as the dependent variable.</p>
+<p>After exploring and preprocessing the data,linear regression models were built in OLS statsmodels, with price as the dependent variable.</p>
 
 ## Conclusions
 
