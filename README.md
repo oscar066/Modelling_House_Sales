@@ -33,12 +33,14 @@
 
 ## Conclusions
 
-<p><li>Together, square footage, grade and bathrooms are the best predictors of a house's price in King County. Homeowners who are interested in selling their homes at a higher price should focus on expanding square footage and improving the quality of construction. When expanding square footage, homeowners should consider building additional bathrooms, as this analysis suggests that number of bathrooms is positively related to price.
+<p>
+<li>Together, square footage, grade and bathrooms are the best predictors of a house's price in King County. Homeowners who are interested in selling their homes at a higher price should focus on expanding square footage and improving the quality of construction. When expanding square footage, homeowners should consider building additional bathrooms, as this analysis suggests that number of bathrooms is positively related to price.
 </li>
 </p>
 
 ## Recommendations
 
-<p><li>We recommend that Homeowners should consider sqft_living ,grade and bathrooms when planning on selling their houses 
+<p>
+<li>Homeowners interested in selling their homes should focus on improving the design and quality of construction of their homes, which may in turn improve their home grade. If possible, they should also expand the square footage of living space on the lot, perhaps by building additional bathrooms.
 </li>
 </p>
